@@ -1,10 +1,3 @@
-# CPSC 310 Project Repository
-
-This repository contains starter code for the class project.
-Please keep your repository private.
-
-For information about the project, autotest, and the checkpoints, see the [course webpage](https://sites.google.com/view/ubc-cpsc310-20w1-intro-to-se).
-
 ## Configuring your environment
 
 To start using this project, you need to get your computer configured so you can build and execute the code.
